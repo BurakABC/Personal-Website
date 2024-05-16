@@ -91,6 +91,17 @@ ul {
     margin-bottom: 20px;
 }
 
+/*video*/
+
+.video {
+    padding: 10px 0 40px;
+}
+
+.video-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 
 /* Utility Classes */
 
