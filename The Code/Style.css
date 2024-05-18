@@ -71,6 +71,7 @@ ul {
 }
 
 /* Hero */
+
 .hero {
     margin-bottom: 50px;
 }
@@ -95,12 +96,16 @@ ul {
 
 .video {
     padding: 10px 0 40px;
-}
+} 
 
 .video-content {
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: center ;
+}
+
+.video-preveiw {
+    margin-bottom: 20px;
 }
 
 /* Utility Classes */
